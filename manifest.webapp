@@ -1,0 +1,14 @@
+{
+    "name": "KaiOS Quiz",
+    "description": "A simple quiz app for KaiOS",
+    "version": "1.0",
+    "launch_path": "/index.html",
+    "icons": {
+        "128": "/icons/icon.png"
+    },
+    "type": "web",
+    "developer": {
+        "name": "Your Name",
+        "url": "https://yourwebsite.com"
+    }
+}
